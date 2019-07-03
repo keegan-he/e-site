@@ -89,7 +89,7 @@ h6 {
 }
 
 p {
-  margin-top: 0;
+  margin-top: 5;
   margin-bottom: 1rem;
 }
 
@@ -9276,7 +9276,7 @@ button.bg-dark:focus {
 
 .mb-5,
 .my-5 {
-  margin-bottom: 3rem !important;
+  margin-bottom: 2rem !important;
 }
 
 .ml-5,
@@ -11843,7 +11843,7 @@ a.text-dark:focus {
 }
 
 .masthead .masthead-avatar {
-  width: 15rem;
+  width: 12rem;
 }
 
 @media (min-width: 992px) {

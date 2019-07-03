@@ -7436,7 +7436,7 @@ a.bg-primary:hover,
 a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #148f77 !important;
+  background-color: #efc84b !important;
 }
 
 .bg-secondary {
@@ -11780,7 +11780,7 @@ a.text-dark:focus {
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
-  color: #1abc9c;
+  color: #54605d;
 }
 
 #mainNav .navbar-toggler {
@@ -11815,7 +11815,7 @@ a.text-dark:focus {
   #mainNav .navbar-nav>li.nav-item>a.nav-link.active:focus,
   #mainNav .navbar-nav>li.nav-item>a.nav-link.active:hover {
     color: #fff;
-    background: #1abc9c;
+    background: #474b4a;
   }
 
   #mainNav.navbar-shrink {
